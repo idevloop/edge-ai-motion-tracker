@@ -33,7 +33,7 @@ It classifies human movements like standing, walking, or running using onboard I
 
 ## Preview
 
-![Board](media/board.jpg)
+![Board](media/board.jpeg)
 ![Serial Output](media/serial_output.png)
 ![Motion Detection](media/motion.gif)
 
